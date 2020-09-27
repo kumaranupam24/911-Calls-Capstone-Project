@@ -14,4 +14,4 @@ The dataset is used from Kaggle for data analysis.
 
 # Feauter Selection
 
-This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following kaggle page. The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
+This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following kaggle page. The kaggle datasets contain an extended descriptions of different aspect of the reasons/incidents of 911 calls , thus I've selected the most relevant and useful data for my analysis.
